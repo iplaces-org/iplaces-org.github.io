@@ -1,4 +1,4 @@
-#iPlaces: Connecting Place to Planet
+# iPlaces: Connecting Place to Planet
 
 ## The Ultimate Tool for Field Station Directors
 
