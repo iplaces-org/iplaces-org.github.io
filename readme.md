@@ -17,7 +17,7 @@ iPlaces is the only platform designed *by* Field Station Directors, *for* Field 
 
 ### Connect with us to learn more 
 
-Ready to transform your field station information management process? ([Add your name to the Expression of Interest form](https://forms.gle/1BpnfVL1Pc3EcnMk6)) and we will follow-up to discuss how iPlaces can help you streamline operations and elevate your station’s research profile.
+Ready to transform your field station information management process? ([Join the growing group of stations helping to shape iPlaces today](https://forms.gle/1BpnfVL1Pc3EcnMk6)). 
 
 **Have questions?** [Contact Us](erin@metadatagamechangers.com) for more information.
 
