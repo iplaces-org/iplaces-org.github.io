@@ -1,8 +1,6 @@
 # iPlaces: Connecting Place to Planet
 
-## The Ultimate Tool for Field Station Directors
-
-### Simplify Project Management. Maximize Impact.
+## Simplify Project Management. Maximize Impact.
 
 Managing project applications to access field stations is complex, time-consuming, and often unsupported. iPlaces changes that with a streamlined platform designed specifically for Field Station Directors. 
 
@@ -17,7 +15,7 @@ Managing project applications to access field stations is complex, time-consumin
 
 iPlaces is the only platform designed *by* Field Station Directors, *for* Field Station Directors. From managing project applications to tracking long-term research impacts, iPlaces handles it all — effortlessly.
 
-### Get Started Today
+### Connect with us to learn more 
 
 Ready to transform your field station information management process? ([Add your name to the Expression of Interest form](https://forms.gle/1BpnfVL1Pc3EcnMk6)) and we will follow-up to discuss how iPlaces can help you streamline operations and elevate your station’s research profile.
 
