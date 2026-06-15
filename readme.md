@@ -1,4 +1,6 @@
 # iPlaces: Connecting Place to Planet
+## What's in this repo? 
+This is a repo for material needed to support our first deployed instance of iPlaces -> [iPlaces Gump Station](https://iplaces-flax.fly.dev/gumpstation) 
 
 ## Simplify Project Management. Maximize Impact.
 
